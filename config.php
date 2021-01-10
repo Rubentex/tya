@@ -1,7 +1,7 @@
 <?php
 // Array of the files with an unique ID
 $files = array(
-    'FID12345' => array(
+    '34273547547' => array(
         'content_type' => 'application/rar', 
         'suggested_name' => 'tutorials-file.rar', 
         'file_path' => 'https://dl.dropboxusercontent.com/s/0nhxpbfek4jvd65/LISTA%20IPTV%20-%20www.m3u8lista.blogspot.com.rar',
