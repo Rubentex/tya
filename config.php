@@ -8,7 +8,7 @@ $files = array(
         'type' => 'local_file'
     ),
     'UID75895795' => array(
-        'content_type' => 'audio/mpeg', 
+        'content_type' => 'application/rar', 
         'suggested_name' => 'file-codex.rar', 
         'file_path' => 'https://dl.dropboxusercontent.com/s/9hio1a29f8zsf77/.mp3',
         'type' => 'remote_file'
