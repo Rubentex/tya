@@ -1,12 +1,13 @@
 <?php
 // Array of the files with an unique ID
 $files = array(
-    'UID12345' => array(
-        'content_type' => 'application/rar', 
-        'suggested_name' => 'codex-file.rar', 
-        'file_path' => 'https://dl.dropboxusercontent.com/s/0nhxpbfek4jvd65/LISTA%20IPTV%20-%20www.m3u8lista.blogspot.com.rar',
+    'FID12345' => array(
+        'content_type' => 'application/zip', 
+        'suggested_name' => 'tutorials-file.zip', 
+        'file_path' => 'tempfile.zip',
         'type' => 'local_file'
-    ),
+    )
+    
 );
 
 // Base URL of the application
