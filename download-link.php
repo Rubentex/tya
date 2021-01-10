@@ -53,11 +53,11 @@ if($match !== false && $currentTime <= $expTime){
         }
         exit;
     }else{
-        $response = 'Download link is not valid.';
+        $response = 'El enlace de descarga no es válido.';
     }
 }else{
     // If the file has been downloaded already or time expired
-    $response = 'Download link is expired.';
+    $response = 'El enlace de descarga ha caducado.';
 }
 ?>
 
