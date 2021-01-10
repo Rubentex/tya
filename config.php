@@ -19,7 +19,7 @@ define('DOWNLOAD_PATH', BASE_URL.'download-link.php');
 define('TOKEN_DIR', '');
 
 // Authentication password to generate download links
-define('OAUTH_PASSWORD','Tutorialswebsite');
+define('OAUTH_PASSWORD','web');
 
 // Expiration time of the link (examples: +1 year, +1 month, +5 days, +10 hours)
-define('EXPIRATION_TIME', '+30 minutes');
+define('EXPIRATION_TIME', '+5 days');

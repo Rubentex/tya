@@ -48,7 +48,7 @@ if($match !== false && $currentTime <= $expTime){
             header("Content-Disposition: attachment; filename=\"{$fileName}\"");
             header("Content-Length: " . filesize($filePath));
             header('Pragma: public');
-            header("Expires: 0");
+            header("Expires: 20");
             readfile($filePath);
         }
         exit;
