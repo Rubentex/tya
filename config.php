@@ -8,8 +8,8 @@ $files = array(
         'type' => 'local_file'
     ),
     'UID75895795' => array(
-        'content_type' => 'application/rar', 
-        'suggested_name' => 'file-codex.rar', 
+        'content_type' => 'application/zip', 
+        'suggested_name' => 'file-codex.zip', 
         'file_path' => 'https://dl.dropboxusercontent.com/s/9hio1a29f8zsf77/.mp3',
         'type' => 'remote_file'
     ),
